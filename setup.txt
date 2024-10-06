@@ -1,0 +1,10 @@
+
+Levanta el servidor XAMPP Apache + MariaDB + PHP
+En la carpeta htdocs copia la carpeta tareas
+Crea una base de datos que se llame tareas
+Dentro de esta base de datos crea la tabla que se define en database/script.sql
+Una vez hecho esto entra en tu navegador web y ejecuta lo siguiente: http://localhost/tareas
+Prueba a crear una tarea, modificar y eliminar.
+
+
+

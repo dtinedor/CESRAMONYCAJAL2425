@@ -1,2 +1,2 @@
 # CESRAMONYCAJAL2425
-CRUP PHP MYSQL 
+Aplicación para creación, edición y borrado de tareas en PHP usando una base de datos y una tabla en MySQL
